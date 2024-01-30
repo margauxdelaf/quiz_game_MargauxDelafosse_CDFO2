@@ -25,8 +25,6 @@ def score_one_result(key, meta):
         print("Right Answer is ({0})".format(actual))
         print ("Learn more : " + meta["more_info"] + "\n")
         return -1
-
-
 def test(questions):
     score = 0
     print("General Instructions:\n1. Please enter only the choice letter corresponding to the correct answer.\n2. Each question carries 2 points\n3. Wrong answer leads to -1 marks per question\nQuiz will start momentarily. Good Luck!\n")
