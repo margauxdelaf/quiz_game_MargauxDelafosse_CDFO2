@@ -31,8 +31,6 @@ def test(questions):
     time.sleep(10)
     for key, meta in questions.items():
         questions[key]["user_response"] = ask_one_question(meta["question"])
-    print("\n***************** RESULT ********************\n")
-    for key, meta in questions.items():
         score += score_one_result(key, meta)
     print("Your Score:", score, "/", (2 * len(questions)))
 
