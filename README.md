@@ -9,6 +9,8 @@ Steps:
 Check your Python version by typing python --version in terminal/cmd prompt. If version is python 3.x you can continue. If version is python 2.x, try: python3 --version. If you receive a version replace 'python' with 'python3' for the rest of these instructions below.
 
 Start the game: type python(3) question.py
+if on Linux or MacOS: type "python3 question.py"
+if on Windows: type "python question.py"
 
 The game will run in the terminal. Answer the first question - whether you want to start the game. Select (a) Start the game (b) Exit.
 
