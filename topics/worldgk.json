@@ -52,5 +52,23 @@
         "answer": "b",
         "more_info": "https://www.orderofbooks.com/authors/sir-arthur-conan-doyle/",
         "user_response": "None"
+    },
+    "10": {
+        "question": "Who wrote the best-seller 'The Shining'?\n(a)J.K. Rowling\n(b)J.R.R. Tolkien\n(c)Suzanne Collins\n(d)Stephen King\n",
+        "answer": "d",
+        "more_info": "https://en.wikipedia.org/wiki/The_Shining_(film)",
+        "user_response": "None"
+    },
+    "11": {
+        "question": "What happened to actor Viggo Mortensen when he kicked a rock in 'The Two Towers'?\n(a)He won a prize\n(b)He broke his toe\n(c)He lost a bet\n(d)He proposed to his gf\n",
+        "answer": "b",
+        "more_info": "https://knowyourmeme.com/memes/viggo-mortensen-broke-his-toe-in-the-two-towers",
+        "user_response": "None"
+    },
+    "12": {
+        "question": "In the comedic series 'The Big Bang Theory', who plays the role of Sheldon Cooper?\n(a)Andy Samberg\n(b)Ty Burrell\n(c)Jim Parsons\n(d)Jason Alexander\n",
+        "answer": "c",
+        "more_info": "https://en.wikipedia.org/wiki/Jim_Parsons",
+        "user_response": "None"
     }
 }
